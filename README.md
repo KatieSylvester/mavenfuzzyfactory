@@ -2,6 +2,7 @@
 
 Database and course designed by Maven Analytics.
 
+
 ## Table of Contents
 * [General Information](#general-information)
 * [Technologies](#technologies)
