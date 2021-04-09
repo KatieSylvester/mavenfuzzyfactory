@@ -1,7 +1,7 @@
 # Maven Fuzzy Factory
 
 Database and course designed by Maven Analytics.
-
+<br>
 
 ## Table of Contents
 * [General Information](#general-information)
