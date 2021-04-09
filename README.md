@@ -3,6 +3,7 @@
 Database and course designed by Maven Analytics.
 <br>
 
+
 ## Table of Contents
 * [General Information](#general-information)
 * [Technologies](#technologies)
@@ -17,6 +18,7 @@ Data extraction and analysis on company performance for Maven Fuzzy Factory.  I 
 
 ## <a name="technologies"></a>Technologies
 * SQL
+<br>
 <br>
 
 ## <a name="files"></a>Files in this Repository
