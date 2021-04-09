@@ -1,4 +1,4 @@
-## Maven Fuzzy Factory
+# Maven Fuzzy Factory
 
 Database and course designed by Maven Analytics.
 
@@ -6,13 +6,11 @@ Database and course designed by Maven Analytics.
 * [General Information](#general-information)
 * [Technologies](#technologies)
 * [Files in this Repository](#files)
-* [Analysis/Conclusions](#analysis)
-*
 <br>
 <br>
 
 ## <a name="general-information"></a>General Information
-Data extraction and analysis on company performance for Mavenfuzzyfactory.  I played the role of business analyst for this mock company to provide insights utilizing various metrics.  T
+Data extraction and analysis on company performance for Maven Fuzzy Factory.  I played the role of business analyst for this mock company to provide insights utilizing various metrics.  Analysis includes...
 <br>
 <br>
 
@@ -24,5 +22,3 @@ Data extraction and analysis on company performance for Mavenfuzzyfactory.  I pl
 All SQL scripts can be found in the scripts file.
 <br>
 <br>
-
-## <a name=“analysis"></a>Analysis/Conclusions
